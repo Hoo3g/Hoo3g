@@ -9,19 +9,5 @@ I'm a developer focusing on **Java**, **Go** and **Angular**, currently building
 - **Go** (concurrency, Gin Web Framework and other parts of Go)  
 - **Java Spring Boot** (REST API, security, JPA, cache)  
 - **Angular** (component architecture, routing, DI, state management)
-  
-### 🧰 Tech Stack
-
-#### Backend
-- Go, Java (Spring Boot)  
-
-#### Frontend
-- Angular, TypeScript, HTML/CSS  
-
-#### Databases
-- PostgreSQL, Redis  
-
-#### Storage
-- **MinIO** (S3-compatible object storage)
 
 
